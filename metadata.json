@@ -1,0 +1,6 @@
+{
+  "name": "Vexqira - WhatsApp Automation",
+  "description": "Simple, modern WhatsApp automation platform for businesses to automatically handle customer enquiries, manage conversations, and stay on top of responses with a dedicated admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
